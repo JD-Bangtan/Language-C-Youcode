@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1637750313 source:c:\users\yc\documents\projet sas mercredi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	<ctype.h>
+
